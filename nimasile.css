@@ -1,4 +1,7 @@
 h1 {
   color: lightblue;
   font-weight: 200;
+  background-color: lightyellow;
+  width: 300px;
+  height: 300px;
 }
